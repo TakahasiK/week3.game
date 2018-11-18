@@ -1,0 +1,57 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont,
+    "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-size: 16px;
+}
+
+.main{
+    position: relative;
+}
+.name1{
+    font-size: 30px;
+    bottom:160px;
+    left:100px;
+    position: absolute;
+    color: white;
+}
+
+.haikei{
+    width:1260px;
+    height: 590px;
+    top:0px;
+    left:0px;
+    position: absolute;
+}
+
+.serihu{
+    position: absolute;
+    left: 60px;
+    top: 385px;
+    width: 1140px;
+    height: 200px;
+}
+.text2 {  
+    width:		100%;
+	font-size:  20px;
+	top: 45px;
+    left: 20px;
+    position: absolute;
+}
+.button {
+    display: block;
+    cursor: pointer;
+    /* border: 1px solid #232323; */
+    width: 1140px;
+    height: 155px;
+    margin: 385px 0 0 40px;
+}
+.told{
+   top: 405px;
+   left:80px;
+   color: white;
+   position: absolute;
+}
+.object{
+    position: absolute;
+    left:500px;
+}

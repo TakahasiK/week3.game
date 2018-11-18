@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    padding-top: 200px;
+    background-image: url(image/bg_school_room.jpg);
+    background-size: cover;
+    color: white;
+}
+.title1{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.loginset{
+    text-align:left;
+    display: inline-block;
+    font-size: 30px;
+}
+.botan{
+    text-align: center;
+    padding-top: 20px;
+}
